@@ -13,7 +13,5 @@ public class Main {
             Thread.sleep(1000);
             context.getBean(Quoter.class).sayQuote();
         }
-
-
     }
 }
